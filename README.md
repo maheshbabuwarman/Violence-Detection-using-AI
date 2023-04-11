@@ -8,3 +8,6 @@ system will detect it and triggers an alarm sound, alerting the
 person in charge in the surveillance room. An AI model, namely 
 Convolutional LSTM model is built and detect whether the action 
 in a certain area is considered a violent action or not.
+
+Model used: ConvLSTM
+Dataset: Kaggle, link: https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset
