@@ -10,4 +10,4 @@ Convolutional LSTM model is built and detect whether the action
 in a certain area is considered a violent action or not.
 
 Model used: ConvLSTM
-Dataset: Kaggle, link: https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset
+<br/> Dataset: Kaggle, link: https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset
